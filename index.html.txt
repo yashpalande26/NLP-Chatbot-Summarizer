@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biryani House - Menu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Biryani House</h1>
+        <p>Pune, Maharashtra</p>
+    </header>
+
+    <section id="menu">
+        <h2>Menu</h2>
+        <div class="menu-item">
+            <h3>Chicken Dum Biryani</h3>
+            <p class="price">₹300</p>
+        </div>
+        <div class="menu-item">
+            <h3>Chicken Biryani</h3>
+            <p class="price">₹280</p>
+        </div>
+        <div class="menu-item">
+            <h3>Dum Ghost Mutton Biryani</h3>
+            <p class="price">₹340</p>
+        </div>
+        <div class="menu-item">
+            <h3>Mutton Biryani</h3>
+            <p class="price">₹320</p>
+        </div>
+        <div class="menu-item">
+            <h3>Paneer Biryani</h3>
+            <p class="price">₹260</p>
+        </div>
+        <div class="menu-item">
+            <h3>Shahi Special Biryani</h3>
+            <p class="price">₹360</p>
+        </div>
+        <div class="menu-item">
+            <h3>Veg Dum Biryani</h3>
+            <p class="price">₹250</p>
+        </div>
+        <div class="menu-item">
+            <h3>Hyderabadi Dum Biryani</h3>
+            <p class="price">₹330</p>
+        </div>
+        <div class="menu-item">
+            <h3>Gulab Jamun</h3>
+            <p class="price">₹70</p>
+        </div>
+        <div class="menu-item">
+            <h3>Coke</h3>
+            <p class="price">₹50</p>
+        </div>
+        <div class="menu-item">
+            <h3>Mughlai Gravy</h3>
+            <p class="price">₹40</p>
+        </div>
+        <div class="menu-item">
+            <h3>Mint Raita</h3>
+            <p class="price">₹30</p>
+        </div>
+<iframe class="chat-bot"width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/9e063dd9-1856-4c0f-b48f-91a4a61d7120"></iframe>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Biryani House</p>
+    </footer>
+</body>
+</html>
